@@ -1,2 +1,2 @@
 # train_simple_CNN
-part of codes for a deep learning competition, used for train a img classify net using pytorch.
+Code snippet from a deep learning competition, used to train an image classification network.
